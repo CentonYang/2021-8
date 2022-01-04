@@ -1,2 +1,4 @@
 # 2021-8
- Unity Project
+Game Type : ETC
+Operation method: WASD Move
+Description : 2021 school final assignments, produced using Asset Store free footage. Practice use NavMesh.
